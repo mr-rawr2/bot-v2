@@ -1,2 +1,2 @@
 # bot-v2
-botnya lebih baik walau eror dikit
+ini adalah bot discord yang bisa membedakan burung merpati, burung cendarwasih dan burung pipit.Dan bot ini memiliki fitor seperti dulu dengan menekan $ dan memasukan kata perintah setelah $ kamu bisa membat bot menanggapi perintahmu🤯.
